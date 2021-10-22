@@ -1,0 +1,13 @@
+git add - adiciona as mudanças no arquivo dps de dar ctrl S
+
+git commit -m = faz commit das mudanças
+
+git push = manda pro site do git
+
+git branch = mostra todas as branchs que voce tem
+
+git checkout = para alterar a branch que voce quer usar
+
+git branch <nomedabranch> = cria uma nova branch
+
+git push --set-upstream origin <nomedabranch> = upa a branch pro github
