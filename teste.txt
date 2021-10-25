@@ -7,4 +7,10 @@ curso git
 77777
 99999
 00000
+<<<<<<< HEAD
 c1 alterando
+=======
+
+c1 alterando
+c2 alterando
+>>>>>>> c2
