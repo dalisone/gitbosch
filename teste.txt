@@ -13,8 +13,14 @@ c2 alterando
 aula3
 aula2
 <<<<<<< HEAD
+<<<<<<< HEAD
 t2 alterando
 t3 alterando
 =======
 t1 alterando
 >>>>>>> 35438fb (t1 alterando)
+=======
+t1 alterando
+t2 alterando
+c157288 (t2 alterando)
+>>>>>>> 9cb11a1 (rebase)
