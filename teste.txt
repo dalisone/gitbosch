@@ -12,13 +12,5 @@ c1 alterando
 c2 alterando
 aula3
 aula2
-<<<<<<< HEAD
 t2 alterando
 t3 alterando
-=======
-t1 alterando
-t2 alterando
-c157288 (t2 alterando)
-t3 alterando
-2c0ace5 (t3 alterando)
->>>>>>> 56532df358b4551bd8cd286534936d7220301be8
