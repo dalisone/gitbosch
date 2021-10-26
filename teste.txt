@@ -12,3 +12,4 @@ c1 alterando
 c2 alterando
 aula3
 aula2
+t1 alterando
