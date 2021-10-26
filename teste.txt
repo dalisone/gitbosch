@@ -15,3 +15,5 @@ aula2
 t1 alterando
 t2 alterando
 c157288 (t2 alterando)
+t3 alterando
+2c0ace5 (t3 alterando)
