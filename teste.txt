@@ -12,5 +12,9 @@ c1 alterando
 c2 alterando
 aula3
 aula2
+<<<<<<< HEAD
 t2 alterando
 t3 alterando
+=======
+t1 alterando
+>>>>>>> 35438fb (t1 alterando)
